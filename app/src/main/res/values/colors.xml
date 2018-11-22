@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="color_arc">@android:color/white</color>
+    <color name="color_text">@android:color/white</color>
+    <color name="color_progress">#58D4DE</color>
+
+    <color name="text_color">#13191F</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="light">#F5F5F5</color>
+    <color name="gainsboro">#DCDCDC</color>
+    <color name="lightgrey">#D3D3D3</color>
+    <color name="darkgray">#A9A9A9</color>
+    <color name="gray">#808080</color>
+</resources>
